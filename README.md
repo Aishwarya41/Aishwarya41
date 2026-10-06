@@ -10,5 +10,3 @@ Health, and before that @calvin-university.
 
 Outside of work, I paint and I build things that I myself find use in: a campus 
 lost-and-found app, an online gallery for art students.
-
-Let's connect!
