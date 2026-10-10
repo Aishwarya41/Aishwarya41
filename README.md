@@ -2,10 +2,10 @@
 
 I'm Aishwarya, a software developer and artist in Grand Rapids, Michigan.
 
-I currently work as a software developer at @VanAndelInstitute, where I build
+I currently work as a software developer at Van Andel Institute, where I build
 full-stack C#/.NET and Blazor applications for biomedical research teams and
 modernize the legacy tools they still depend on. Previously, I was at Corewell
-Health, and before that @calvin-university.
+Health, and before that at Calvin University.
 
 
 Outside of work, I paint and I build things that I myself find use in: a campus 
